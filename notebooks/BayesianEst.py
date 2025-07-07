@@ -65,7 +65,7 @@ def get_est(d18Osw_mu=-0.55, d18Osw_sigma=0.1, DpH_mu=-0.2, DpH_sigma=0.05):
     d18Osw_vals = np.linspace(d18Osw['1.5x'], d18Osw['6x'], len(CO2_levs))
 
     def d18Ob_M14(T, d18Osw, DpH):
-        d18Ob = (d18Osw-0.27) + (-0.245*T+0.0011*T*T + 3.58) - 1.5435*DpH
+        d18Ob = (d18Osw-0.27) + (-0.245*T+0.0011*T*T + 3.58) - 1.5435*DpH  # -0.27: VSMOW to VPDB conversion 
         return d18Ob
 
     d18Ob_vals = d18Ob_M14(TEMP_vals, d18Osw_vals, 0)  # internal d18Osw, no pH correction
