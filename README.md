@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15883770.svg)](https://doi.org/10.5281/zenodo.15883770)
 
 
-# Code repository for paper: _Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum_
+# Code repository for _Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum_
 
-This repository gathers notebooks for the paper: _Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum_, submitted to _Nature Geoscience_.
+This repository gathers notebooks for the manuscript _Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum_.
 
 The code is tested with Python 3.13, and the package [`x4c`](https://ncar.github.io/x4c/) is required to perform essential analysis and the corresponding visualization.
 
