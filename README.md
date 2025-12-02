@@ -17,6 +17,15 @@ The code is tested with Python 3.13, and the package [`x4c`](https://ncar.github
     - `Fig.04.ipynb`: the notebook that performs analysis and generates Fig. 4 in the main text
     - `Fig.05.ipynb`: the notebook that performs analysis and generates Fig. 5 in the main text
 - `data`: the directory that includes the auxiliary data for the analysis and visualization (note that the raw iCESM1.3 output are stored on NSF NCAR's Glade system)
+    - [`iCESM1.3_1.5x_TEMP_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_1.5x_TEMP_clim_eq.nc): the equilibrium state of TEMP (ocean temperature) of the 1.5xCO2 case
+    - [`iCESM1.3_1.5x_SALT_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_1.5x_TEMP_clim_eq.nc): the equilibrium state of SALT (ocean salinity) of the 1.5xCO2 case
+    - [`iCESM1.3_1.5x_d18Osw_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_1.5x_TEMP_clim_eq.nc): the equilibrium state of d18Osw (sea water d18O) of the 1.5xCO2 case
+    - [`iCESM1.3_3x_TEMP_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_3x_TEMP_clim_eq.nc): the equilibrium state of TEMP (ocean temperature) of the 3xCO2 case
+    - [`iCESM1.3_3x_SALT_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_3x_TEMP_clim_eq.nc): the equilibrium state of SALT (ocean salinity) of the 3xCO2 case
+    - [`iCESM1.3_3x_d18Osw_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_3x_TEMP_clim_eq.nc): the equilibrium state of d18Osw (sea water d18O) of the 3xCO2 case
+    - [`iCESM1.3_MLE_TEMP_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_TEMP_clim_eq.nc): the equilibrium state of TEMP (ocean temperature) of the MLE case
+    - [`iCESM1.3_MLE_SALT_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_TEMP_clim_eq.nc): the equilibrium state of SALT (ocean salinity) of the MLE case
+    - [`iCESM1.3_MLE_d18Osw_clim_eq.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_TEMP_clim_eq.nc): the equilibrium state of d18Osw (sea water d18O) of the MLE case
 - `figs`: the folder that includes the figures in the main text
 
 
