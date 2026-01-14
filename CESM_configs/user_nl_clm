@@ -1,0 +1,4 @@
+
+urban_hac   = 'OFF'
+fsurdat     = '/glade/work/fengzhu/Projects/Miocene-ne30_g16-Derecho/02.lnd-bc-setup/surfdata_ne30_Miocene_c240613.nc'
+finidat = '/glade/work/fengzhu/Projects/Miocene-ne30_g16-Derecho/04.lnd-ic-setup-interpolate/b.e13.B1850C5.ne16_g16.icesm131_d18O_fixer.Miocene.3xCO2.005.offset.d18O.branch.clm2.r.9001-01-01-00000.nc'
