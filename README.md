@@ -11,6 +11,7 @@ The code is tested with Python 3.13, and the package [`x4c`](https://ncar.github
 - `notebooks`: the directory that includes the Jupyter notebooks and the utility scripts
     - [`BayesianEst.py`](https://github.com/fzhu2e/paper-MCO_iCESM/blob/main/notebooks/BayesianEst.py): the probabilistic proxy system model (PSM) proposed in this study, which is used to generate the `df_CO2pdf.csv` under the `data` directory
     - [`SIFig.03.ipynb`](https://github.com/fzhu2e/paper-MCO_iCESM/blob/main/notebooks/SIFig.03.ipynb): the notebook that performs probabilistic proxy system modeling using `BayesianEst.py` and generates SI Fig. 3 in the Supplementary Information
+    - [`SIFig.05.ipynb`](https://github.com/fzhu2e/paper-MCO_iCESM/blob/main/notebooks/SIFig.05.ipynb): the notebook that performs the sensitivity test on site selection and generates SI Fig. 5 in the Supplementary Information
     - [`Fig.01.ipynb`](https://github.com/fzhu2e/paper-MCO_iCESM/blob/main/notebooks/Fig.01.ipynb): the notebook that performs analysis and generates Fig. 1 in the main text
     - [`Fig.02.ipynb`](https://github.com/fzhu2e/paper-MCO_iCESM/blob/main/notebooks/Fig.02.ipynb): the notebook that performs analysis and generates Fig. 2 in the main text
     - [`Fig.03.ipynb`](https://github.com/fzhu2e/paper-MCO_iCESM/blob/main/notebooks/Fig.03.ipynb): the notebook that performs analysis and generates Fig. 3 in the main text
