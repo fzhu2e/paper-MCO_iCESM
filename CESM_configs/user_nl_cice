@@ -1,0 +1,4 @@
+
+ice_ic      = '/glade/campaign/univ/ubrn0018/fengzhu/CESM_output/archive/b.e13.B1850C5.ne16_g16.icesm131_d18O_fixer.Miocene.3xCO2.005/rest/9001-01-01-00000/b.e13.B1850C5.ne16_g16.icesm131_d18O_fixer.Miocene.3xCO2.005.offset.d18O.branch.cice.r.9001-01-01-00000.nc'
+grid_file   = '/glade/work/fengzhu/Projects/Miocene-on-Derecho/data/grid.gx1vMIO.pop.da'
+kmt_file    = '/glade/work/fengzhu/Projects/Miocene-on-Derecho/data/gridkmt.gx1vMIO.202.182.0.5.40.50_pop.da'
