@@ -34,7 +34,6 @@ The code is tested with Python 3.13, and the package [`x4c`](https://ncar.github
     - [`iCESM1.3_MLE_RHDO_climo.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_RHDO_climo.nc): the monthly climatology of dDsw (sea-water dD) of the MLE case; the global volume mean is reset accordingly
 - `CESM_configs`: the directory that includes the CESM configuration related files, including the namelists and the necessary MCO topography and bathymetry files, etc.
 - `pygplates_data`: the directory that includes the static files for rotating present-day locations to paleo-locations using [PyGPlates](https://github.com/GPlates/GPlates)
-- `figs`: the directory that includes the figures in the main text
 
 
 ## How to cite this repository
