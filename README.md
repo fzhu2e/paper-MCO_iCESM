@@ -32,8 +32,9 @@ The code is tested with Python 3.13, and the package [`x4c`](https://ncar.github
     - [`iCESM1.3_MLE_aice_climo.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_aice_climo.nc): the monthly climatology of aice (sea-ice area) of the MLE case
     - [`iCESM1.3_MLE_R18O_climo.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_R18O_climo.nc): the monthly climatology of d18Osw (sea-water d18O) of the MLE case; the global volume mean is set to -0.55 permil
     - [`iCESM1.3_MLE_RHDO_climo.nc`](https://github.com/fzhu2e/paper-MCO_iCESM/raw/refs/heads/main/data/iCESM1.3_MLE_RHDO_climo.nc): the monthly climatology of dDsw (sea-water dD) of the MLE case; the global volume mean is reset accordingly
-- `CESM_configs`: the directory that includes the CESM configuration related files, including the namelists and the necessary MCO topography and bathymetry files, etc.
 - `pygplates_data`: the directory that includes the static files for rotating present-day locations to paleo-locations using [PyGPlates](https://github.com/GPlates/GPlates)
+- `CESM_configs`: the directory that includes the CESM configuration related files, including the namelists and the necessary MCO topography and bathymetry files, etc.
+- `CESM_restart_files`: the directory that includes the CESM restart files for the 1.5xCO2 and 3xCO2 cases. Note that this is **only available in the Zenodo repository** due to large file sizes: [10.5281/zenodo.15883769](https://doi.org/10.5281/zenodo.15883769)
 
 
 ## How to cite this repository
