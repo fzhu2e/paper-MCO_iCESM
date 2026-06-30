@@ -5,7 +5,7 @@
 
 This repository gathers notebooks for the manuscript _Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum_.
 
-The code is tested with Python 3.13, and the package [`x4c`](https://ncar.github.io/x4c/) is required to perform essential analysis and the corresponding visualization.
+The code is tested with Python 3.13 on Linux, and the package [`x4c`](https://ncar.github.io/x4c/) is required to perform essential analysis and the corresponding visualization.
 
 ## Repository Structure
 - `notebooks`: the directory that includes the Jupyter notebooks and the utility scripts
